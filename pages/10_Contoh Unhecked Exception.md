@@ -35,7 +35,8 @@ class UnheckedException {
 ```
 ENTER untuk lanjutkan
 
-Exception in thread "main" java.lang.ArithmeticException: / by zero
+Exception in thread "main" 
+java.lang.ArithmeticException: / by zero
     at UnheckedException.main(Main.java:13)
 ```
 

@@ -65,6 +65,42 @@ src: ./pages/11_Cover Try-Catch.md
 ---
 
 ---
+src: ./pages/12_Try-Catch.md 
+---
+
+---
+src: ./pages/13_Contoh Try-Catch.md 
+---
+
+---
+src: ./pages/14_Cover Throw and Throws.md 
+---
+
+---
+src: ./pages/15_Throw and Throws.md 
+---
+
+---
+src: ./pages/16_Contoh Throw and Throws.md 
+---
+
+---
+src: ./pages/17_Cover Custom Exception Class.md 
+---
+
+---
+src: ./pages/18_Custom Exception Class.md 
+---
+
+---
+src: ./pages/19_Cover Exercise.md 
+---
+
+---
+src: ./pages/U_Cover Assignment.md 
+---
+
+---
 src: ./pages/V_Teknis Pengumpulan 1.md 
 ---
 

@@ -35,7 +35,9 @@ class CheckedException {
 <div class='flex-row' v-click=1>
 
 ```
-./CheckedException.java:11: error: unreported exception FileNotFoundException; must be caught or declared to be thrown
+./CheckedException.java:11: error: 
+unreported exception FileNotFoundException; 
+must be caught or declared to be thrown
     FileReader file = new FileReader("C:\\test\\a.txt");
                       ^
 ```
