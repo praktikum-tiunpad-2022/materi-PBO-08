@@ -12,6 +12,6 @@ Berikut adalah contoh perbedaan lebih lanjut dari Error dan Exception:
 </div>
 </div>
 <div class='flex-row'>
-<img src="/img/diagram throwable.png">
+<img src="/img/diagram.png">
 </div>
 </div>
