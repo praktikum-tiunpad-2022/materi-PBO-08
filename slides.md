@@ -92,26 +92,43 @@ src: ./pages/17_Cover Custom Exception Class.md
 src: ./pages/18_Custom Exception Class.md 
 ---
 
+
 ---
 src: ./pages/19_Cover Exercise.md 
 ---
 
 ---
-src: ./pages/U_Cover Assignment.md 
+src: ./pages/20_Exercise.md 
 ---
 
 ---
-src: ./pages/V_Teknis Pengumpulan 1.md 
+src: ./pages/21_Cover Assignment.md 
 ---
 
 ---
-src: ./pages/X_Teknis Pengumpulan 2.md 
+src: ./pages/22_Assignment1.md 
 ---
 
 ---
-src: ./pages/Y_Deadline.md 
+src: ./pages/23_Assignment2.md 
 ---
 
 ---
-src: ./pages/Z_Terima Kasih.md 
+src: ./pages/24_Assignment3.md 
+---
+
+---
+src: ./pages/25_Teknis Pengumpulan 1.md 
+---
+
+---
+src: ./pages/26_Teknis Pengumpulan 2.md 
+---
+
+---
+src: ./pages/27_Deadline.md 
+---
+
+---
+src: ./pages/28_Terima Kasih.md 
 ---
